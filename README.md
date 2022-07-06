@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Amartha<br>🌱 I’m currently learning Golang<br>⚡ Fun fact : Love to watch One piece 
+🔭 I’m currently working at Amartha as Backend Engineer<br>🌱 I’m currently learning Golang<br>⚡ Fun fact : Love to watch One piece 
 
 
 ## 🌐 Socials:
