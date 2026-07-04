@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at ByteDance as Software Engineer<br>🌱 I’m currently using Golang<br>⚡ Fun fact : Love to watch One piece 
+🔭 I’m currently working at Mindwalker.ai as AI Researcher<br>🌱 I’m currently using Python<br>⚡ Fun fact : Love to watch One piece 
 
 
 ## 🌐 Socials:
